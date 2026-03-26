@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ALOS",
+  "base_artist": "三浦大知",
+  "createdAt": "2026-03-26T08:56:31.439305Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ALOS",
+      "artist": "Daichi Miura",
+      "has_synced": true,
+      "path": "select/01_ALOS_Daichi_Miura.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ektu Alos Mekhe",
+      "artist": "Srf Khan Shuvro",
+      "has_synced": true,
+      "path": "select/02_Ektu_Alos_Mekhe_Srf_Khan_Shuvro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ALOS",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_ALOS_三浦_大知.txt"
+    }
+  ]
+}
